@@ -1,0 +1,25 @@
+{
+  "name": "docimg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VianeyArteaga/Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VianeyArteaga/Docker/issues"
+  },
+  "homepage": "https://github.com/VianeyArteaga/Docker#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
